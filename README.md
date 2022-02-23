@@ -3,4 +3,4 @@
 Embora meu conhecimento principal esteja no entorno da linguagem Python e dos pacotes de manutenção de dados, tenho algum conhecimento em R, HTML, e Javascript.
 - 🌱 Estou avançando na formação de APIs, interfaces próprias e melhores práticas de escrita de códigos.
 - 💞️ Meu objetivo principal é adquirir experiência em trabalhos de equipe, preferencialmente em projetos de back-end ou de manutenção de dados.
-- 📫 Você pode me mandar um email para enriicoo@gmail.com se algo te interessou por aqui!
+- 📫 Você pode mandar um email para enriicoo@gmail.com se algo te interessou por aqui!
