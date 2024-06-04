@@ -3,5 +3,5 @@
 - 📝 Já mexi em bases de dados do mercado imobiliário, e de certas grandes bases brasileiras (estatísticas de covid pelo Sistema de Informações sobre Mortalidade[SIM], Censo Demográfico de 2010, Resultados eleitorais 2018-2022, evolução de emprego pelos microdados do RAIS, e mapas do Brasil em diversas esferas).
 - ⚙️ Meu conhecimento principal de programação está no entorno da linguagem Python e dos pacotes de manutenção de dados (Numpy, Pandas, Geopandas, Matplotlib) além de outros de usos diversos (Dash, Openpyxl, Selenium, Pyglet), trabalhando também com R, PowerBI, PostgreSQL. Iniciante em Elixir mas não desenvolvi projetos. Faço projetos particulares em Godot, uma game engine.
 - 🌱 No momento estou numa pausa na evolução de novas habilidades em programação para estudar para outros objetivos, mas continuo usando as que listei acima.
-- 💞️ Meu objetivo principal é adquirir experiência em trabalhos de equipe, preferencialmente em projetos de back-end ou de manutenção de dados.
+- 💞️ Meu objetivo principal na área de programação é adquirir experiência em trabalhos de equipe, preferencialmente relacionados com engenharia de dados.
 - 📫 Você pode mandar um email para enriicoo@gmail.com ou me procurar nas redes sociais se algo te interessou por aqui!
